@@ -31,7 +31,7 @@ generate_ott_data_v3  →  build_daily_sales   →  upload_to_sheets  →  Looke
 
 ## 대시보드
 
-**[▶ Looker Studio 대시보드 직접 보기](https://datastudio.google.com/reporting/a0a79d8b-9e03-4406-ba7a-11c402068e4f)** (로그인 없이 열람 가능, 기간·경기명 필터 사용 가능)
+**[▶ Google Data Studio 대시보드 직접 보기](https://datastudio.google.com/reporting/a0a79d8b-9e03-4406-ba7a-11c402068e4f)** (*구 Looker Studio, 로그인 없이 열람 가능)
 
 ![dashboard](dashboard.png)
 
