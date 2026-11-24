@@ -77,5 +77,5 @@ jupyter notebook match_sales_regression.ipynb   # 회귀분석 (portfolio.db 필
 ## 구현 범위
 
 - 가상 데이터 생성부터 SQL 추출, 가공, Google Sheets 자동 업로드까지 이어지는 파이프라인
-- Looker Studio 대시보드 (KPI 스코어카드, 월별 누적 추이, 종목 비중, 경기별 TOP 10)
+- Google Data Studio 대시보드 (KPI 스코어카드, 월별 누적 추이, 종목 비중, 경기별 TOP 10)
 - 경기 특성별 판매 회귀분석 (포아송 회귀) 및 학습에 쓰지 않은 기간으로 예측 검증
